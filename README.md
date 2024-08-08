@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **OOPS,ReactJS,Javascript,C++**
+- 💬 Ask me about **C++,OOPS,Javascript,ReactJS**
 
 - 📫 How to reach me **pratikshitrai1990@gmail.com**
 
